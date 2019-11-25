@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://smes.nekox.net
+baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Swinburne Mechatronics Engineering Society
+email: mechatronics.swin@gmail.com
+description: "The landing site for the Swinburne Mechatronics Engineering Society, a club at Swinburne University of Technology, Melbourne, Australia, aimed at bringing industry closer to our mechatronics engineering students."
 
 
 # Team names, titles and social links
@@ -45,20 +45,21 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: 
   - title: facebook
-    url:
+    url: https://www.facebook.com/mechatronics.swin/
   - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: 
   - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: 
   - title: github
-    url: http://github.com/jekyll
+    url: 
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: John Street,
+  - line: Hawthorn VIC 3122
+  - line: Australia
 
 # Build settings
 markdown: kramdown

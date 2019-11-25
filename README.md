@@ -1,30 +1,9 @@
-Agency Jekyll theme
-====================
+# smes.nekox.net
 
-Agency theme based on [Agency bootstrap theme ](https://startbootstrap.com/template-overviews/agency/)
+Swinburne Mechatronics Engineering Society, **Unofficial** Prototype Webpage.
 
-# How to use
+Based on the [Agency Jekyll Theme by y7kim](https://github.com/y7kim/agency-jekyll-theme)
 
-###Portfolio 
+## SMES
 
-Portfolio projects are in '/_posts'
-
-Images are in '/img/portfolio'
-
-###About
-
-Images are in '/img/about/'
-
-###Team
-
-Team members and info are in '_config.yml'
-
-Images are in '/img/team/'
-
-
-# Demo
-
-View this jekyll theme in action [here](https://y7kim.github.io/agency-jekyll-theme)
-
-=========
-For more details, read [documentation](http://jekyllrb.com/)
+This site is a test site for the viability of a web presence for the society. Currently the site is using the Agency theme though it may be changed in future. As the site is a work-in-progress and unofficial, it is in no way representative of the current activies, views, or members of the society, and should not be relied on for any factual information. For more information, visit the society's [facebook page](https://www.facebook.com/mechatronics.swin/) or contact us on mechatronics.swin@gmail.com
