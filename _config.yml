@@ -9,9 +9,9 @@ description: "The landing site for the Swinburne Mechatronics Engineering Societ
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: David Di Meo
   pic: 1
-  position: Lead Designer
+  position: President and Founder
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: Monique Kuhn
   pic: 2
-  position: Lead Marketer
+  position: Lead Designer
   social:
     - title: twitter
       url: #
@@ -31,8 +31,30 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: Jacob Walker
   pic: 3
+  position: Treasurer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Stuart Cafarella
+  pic: 4
+  position: Secretary
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+- name: Jimmy Trac
+  pic: 5
   position: Lead Developer
   social:
     - title: twitter
