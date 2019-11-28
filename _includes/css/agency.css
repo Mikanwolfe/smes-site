@@ -284,6 +284,10 @@ header .intro-text {
     padding-bottom: 50px;
 }
 
+header .navbar-logo {
+    float: inline-start
+}
+
 header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: {{ site.data.template.font.secondary }};
