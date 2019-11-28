@@ -177,6 +177,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-brand {
     font-family: "Courier New","Helvetica Neue",Helvetica,Arial,cursive;
+    margin-top: -3rem;
 
     color: #{{ site.data.template.color.primary }};
 }
@@ -259,6 +260,7 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #222;
+        max-height: 70px;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -282,10 +284,6 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
-}
-
-header .navbar-logo {
-    float: inline-start
 }
 
 header .intro-text .intro-lead-in {
