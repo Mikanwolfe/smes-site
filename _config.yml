@@ -4,7 +4,7 @@ baseurl: /
 # Site settings
 title: Swinburne Mechatronics Engineering Society
 email: mechatronics.swin@gmail.com
-description: "The landing site for the Swinburne Mechatronics Engineering Society, a club at Swinburne University of Technology, Melbourne, Australia, aimed at bringing industry closer to our mechatronics engineering students."
+description: "The homepage for the Swinburne Mechatronics Engineering Society, a club at Swinburne University of Technology, Melbourne, Australia, aimed at bringing industry closer to our mechatronics engineering students."
 
 
 # Team names, titles and social links
@@ -66,21 +66,17 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: 
   - title: facebook
     url: https://www.facebook.com/mechatronics.swin/
-  - title: stack-overflow
-    url: 
-  - title: bitbucket 
-    url: 
-  - title: github
-    url: 
+  - title: university
+    url: https://studentlife.swinburne.edu.au/Clubs/Mechatronics
+  - title: linkedin
+    url: https://www.linkedin.com/company/mechatronics-swin/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: John Street,
-  - line: Hawthorn VIC 3122
+  - line: Swinburne University of Technology
+  - line: John Street, Hawthorn VIC 3122
   - line: Australia
 
 # Build settings
