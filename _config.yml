@@ -75,9 +75,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Swinburne University of Technology
-  - line: John Street, Hawthorn VIC 3122
-  - line: Australia
+  - line: Swinburne University of Technology,
+  - line: John Street, Hawthorn VIC 3122, Australia
 
 # Build settings
 markdown: kramdown
