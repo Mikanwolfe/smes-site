@@ -13,56 +13,42 @@ people:
   pic: 1
   position: President and Founder
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/daviddimeo/
 
 - name: Monique Kuhn
   pic: 2
   position: Lead Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/monique-kuhn/
+    - title: link
+      url: https://www.wabinabi.com/
 
 - name: Jacob Walker
   pic: 3
   position: Treasurer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/jacob-walker-788970189/
 
 - name: Stuart Cafarella
   pic: 4
   position: Secretary
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/stuartcafarella/
 
 - name: Jimmy Trac
   pic: 5
   position: Lead Developer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/jimmy-trac/
+    - title: github
+      url: https://github.com/mikanwolfe
+    - title: link
+      url: https://nekox.net/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
