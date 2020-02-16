@@ -1,9 +1,19 @@
-# smes.nekox.net
+# Swinburne Mechatronics Engineering Society
 
-Swinburne Mechatronics Engineering Society, **Unofficial** Prototype Webpage.
+Connecting the Industry to Individuals. http://mechatronics-society.nekox.net/
 
-Based on the [Agency Jekyll Theme by y7kim](https://github.com/y7kim/agency-jekyll-theme)
 
-## SMES
 
-This site is a test site for the viability of a web presence for the society. Currently the site is using the Agency theme though it may be changed in future. As the site is a work-in-progress and unofficial, it is in no way representative of the current activies, views, or members of the society, and should not be relied on for any factual information. For more information, visit the society's [facebook page](https://www.facebook.com/mechatronics.swin/) or contact us on mechatronics.swin@gmail.com
+Using the [Agency Jekyll Theme by y7kim](https://github.com/y7kim/agency-jekyll-theme), (C) Apache License 2.0. 
+
+All content within this repository and on the site(s) mechatronics-society.nekox.net and the associated nekox.net are not representative of the views or are directly related to Swinburne University of Technology. We are a student club.
+
+---
+
+This is the homepage of the Swinburne Mechatronics Engineering Society (SMES, or just Mechatronics Society). We are a student club at Melbourne's Swinburne University of Technology. Our mission is to enrich the experience of Mechatronics majors during their university career by providing them access and networking to mechatronics-related industry events and opportunities.
+
+For more information, visit the website or contact us at mechatronics.swin@gmail.com.
+
+#### Footnote
+
+This repository is currently being hosted by *Mikanwolfe,* a current member of the SMES Committee. Later committees will be granted access to this repository for modification of the webpage. Currently, the website is hosted under nekox.net domain.
